@@ -26,7 +26,7 @@ The web server now runs on HTTPS (self-signed certificates are allowed), for enc
 > Certificates must be put in `certs.h` and need to be formatted correctly. 
 
 ### Simple Authentication
-The webpage asks for a username and password before loading anything.
+The webpage asks for the correct username and password before loading anything.
 
 ## Configuration
 
