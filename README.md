@@ -4,8 +4,6 @@ Making changes to the Xiao ESP32S3 Sense Dev Board with the goal of making it ea
 # Warning
 This code only works for SeeedStudio's Xiao ESP32S3 Sense, with OPI PSRAM enabled, and any of the supported cameras (OVs 2640, 3660 and 5640)
 
----------------------------
-
 ## Current Changes
 
 ### Operating on a Single-Port
