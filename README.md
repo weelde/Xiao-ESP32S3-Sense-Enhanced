@@ -5,6 +5,8 @@ This project's goal is to make the Xiao ESP32S3 Sense a viable option as a surve
 This code only works for SeeedStudio's Xiao ESP32S3 Sense, with OPI PSRAM enabled, and any of the supported cameras (OVs 2640, 3660 and 5640)
 Webpage/camera speed is not guaranteed due to the heavy resource usage of the code.
 
+> Enable OPI PSRAM in Arduino IDE: Open your board sketch > `Tools` > `PSRAM` > `OPI PSRAM`
+
 ## Current Changes
 
 ### Operating on a Single-Port
