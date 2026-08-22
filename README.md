@@ -1,7 +1,7 @@
 # Xiao-ESP32S3-Sense-Enchanced
 This project's goal is to make the Xiao ESP32S3 Sense a viable option as a surveillance camera accessible from the Internet.
 
-# Warning
+## Warning
 This code only works for SeeedStudio's Xiao ESP32S3 Sense, with OPI PSRAM enabled, and any of the supported cameras (OVs 2640, 3660 and 5640).
 Webpage/camera speed is not guaranteed due to the heavy resource usage of the code.
 
