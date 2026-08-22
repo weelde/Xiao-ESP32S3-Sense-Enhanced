@@ -1,4 +1,4 @@
-# Xiao-ESP32S3-Sense-Enchanced
+# Xiao-ESP32S3-Sense-Enhanced
 This project's goal is to make the Xiao ESP32S3 Sense a viable option as a surveillance camera accessible from the Internet.
 
 ## Warning
