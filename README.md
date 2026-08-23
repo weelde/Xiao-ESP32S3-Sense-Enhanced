@@ -11,7 +11,7 @@ Webpage/camera speed is not guaranteed due to the heavy resource usage of the co
 
 # > The changes listed below are only a fraction of the new implemented features. Check each update to see what it adds.
 
-### Operating on a Single-Port
+### Operating on a Single Port
 Most routers block or do not give you access to port 81, which is the one the board uses for streaming. With the original code, it would be impossible to see the stream outside a local network.
 The hardcoded lines have been disabled, and the stream was merged to port 80, which the board already uses to manage the webpage.
 
