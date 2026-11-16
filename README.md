@@ -6,6 +6,8 @@ Better streaming, better security, better ease of use; all on a tiny finger-size
 
 ## Disclaimer
 
+### !! THIS PROJECT IS NOT VIBECODED !!
+
 - This project is specifically built for the XIAO ESP32S3 Sense, other boards are untested! Proceed at your own risk.
 - This project uses Arduino IDE'S CameraWebServer as a base, with tweaked code and added sections to enhance the experience. All rights to the respective owners.
 
